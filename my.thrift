@@ -1,0 +1,3 @@
+service Message {
+  void hello()
+}
